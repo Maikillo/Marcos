@@ -1,4 +1,3 @@
-@@ -1,66 +1,26 @@
 # 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
 # Marcos Mendes
 

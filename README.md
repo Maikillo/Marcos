@@ -1,1 +1,83 @@
-# Marcos
+@@ -1,66 +1,26 @@
+# 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
+# Marcos Mendes
+
+![Banner](https://storage.ko-fi.com/cdn/useruploads/display/897d021c-3316-48bb-995b-43dba76a3296_lethalpocketdiscord.gif)
+Estudante de Engenharia de Software, com projetos de estudo em Java, C/C++, desenvolvimento web e Android. Meu objetivo de evolução profissional é chegar à Segurança da Informação, com foco em Cloud Security e Application Security (AppSec). Este perfil reúne exemplos do meu aprendizado em lógica, orientação a objetos, validação de entrada e construção de interfaces.
+
+![Profile Banner](https://img.shields.io/badge/LEVEL-99-purple?style=for-the-badge&logo=github)
+![XP](https://img.shields.io/badge/XP-∞-blue?style=for-the-badge&logo=java)
+![Status](https://img.shields.io/badge/STATUS-Online-green?style=for-the-badge&logo=visualstudiocode)
+> “Coding is my game — logic is my weapon.” ⚔️
+## Projetos
+
+---
+| Projeto | O que demonstra | Tecnologias |
+| --- | --- | --- |
+| [Sistema bancário didático](https://github.com/Maikillo/java-banking-system) | Modelagem de contas, herança, operações e interface desktop | Java, Swing |
+| [Cartão de visitas Android](https://github.com/Maikillo/android-business-card) | Composição de interface e integração com contatos | Kotlin, Compose |
+| [Game Shop](https://github.com/Maikillo/game-shop-landing-page) | Estrutura semântica, layout responsivo e formulário demonstrativo | HTML, CSS, JavaScript |
+| [Portal de notícias](https://github.com/Maikillo/news-portal-html-css) | Cartões, editorias e adaptação de layout | HTML, CSS |
+| [Analisador de vetor](https://github.com/Maikillo/java-array-analyzer) | Operações com vetores e validação de entrada | Java, Swing |
+| [Simulador bancário em C](https://github.com/Maikillo/c-banking-simulator) | Controle de fluxo e operações no console | C |
+
+## 🌍 Languages / Idiomas / Lenguajes
+🇧🇷 **Português** | 🇺🇸 **English** (learning)
+Os READMEs indicam como executar cada projeto e seus limites. Exercícios e protótipos são identificados como tal; alguns projetos adicionais permanecem privados.
+
+---
+## Em desenvolvimento
+
+## 🧠 About Me / Sobre mim / Sobre mí
+🎓 Software Engineering Student
+💻 Passionate about Game and Systems Development
+🕹️ Focus on Java, C, HTML5, and JavaScript
+📍 Campo Belo - MG, Brazil
+Aprofundamento em orientação a objetos, testes, validação de entrada e organização de aplicações. Direcionamento de estudos para desenvolvimento seguro e segurança de aplicações e ambientes cloud. Cloud Security e AppSec são objetivos de carreira; não representam certificações ou experiência profissional já comprovadas neste perfil.
+
+---
+## Contato
+
+## ⚙️ Tech Arsenal / Arsenal Tecnológico / Arsenal Tecnológico
+| Frontend | Backend | Tools | (learning)
+|-----------|----------|--------|
+![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode)|
+[LinkedIn](https://www.linkedin.com/in/marcosgoncalvesmendes/) · [GitHub](https://github.com/Maikillo)
+
+---
+
+## 🧩 Game Stats / Estatísticas / Estadísticas
+![Maikillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikillo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maikillo&layout=compact&theme=tokyonight)
+
+---
+
+## 🕹️ Level Up Projects / Projetos / Proyectos
+- 🧮 [Vetor de Números em Java](https://github.com/Maikillo/vetor-numeros)
+- 🔢 [Soma de Matrizes em Java](https://github.com/Maikillo/soma-matrizes)
+- 
+---
+
+## 💬 Contact / Contato / Contacto
+📧 **maikillo@gmail.com**  
+🌐 [GitHub](https://github.com/Maikillo)  
+📸 [Instagram](https://instagram.com/_maikillo)  
+💼 [LinkedIn](https://www.linkedin.com/in/marcosgoncalvesmendes/)
+
+---
+
+## 🧩 Gamer Philosophy / Filosofia Gamer / Filosofía Gamer
+> “True mastery is not about writing less code, but understanding more.” — Linus Torvalds  
+> “El verdadero poder está en el conocimiento, no en el atajo.”  
+> “A verdadeira vitória é aprender algo novo a cada commit.” 🏆
+
+---
+## 🧠 XP Boost
+⭐ If you like my work, please rate the repositories!
+🎯 Always open to collaborations, partnerships, and creative ideas.

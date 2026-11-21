@@ -64,9 +64,9 @@ Aprofundamento em orientação a objetos, testes, validação de entrada e organ
 ---
 
 ## 💬 Contact / Contato / Contacto
-📧 **maikillo@gmail.com**  
+📧 **marcosmendes01011@gmail.com**  
 🌐 [GitHub](https://github.com/Maikillo)  
-📸 [Instagram](https://instagram.com/_maikillo)  
+📸 [Instagram](https://instagram.com/dev.maikillo_)  
 💼 [LinkedIn](https://www.linkedin.com/in/marcosgoncalvesmendes/)
 
 ---

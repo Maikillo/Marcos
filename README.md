@@ -1,27 +1,27 @@
+<div align="center">
+
 # 🎮 Marcos Mendes
 
-### 💻 Suporte Técnico N2 | 🛡️ Rumo a Analista SOC e Analista de Segurança da Informação / Cibersegurança
+### Software Engineer in the Making · Game Development Enthusiast
 
-Atuo como Suporte Técnico N2 na Stratus e estou direcionando minha carreira para futuras oportunidades como **Analista SOC** e **Analista de Segurança da Informação / Cibersegurança**.
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/897d021c-3316-48bb-995b-43dba76a3296_lethalpocketdiscord.gif" width="100%" alt="Animated banner" />
 
-Quero conectar minha experiência em suporte e minha base em desenvolvimento à proteção de sistemas e informações, com foco em segurança defensiva (Blue Team).
+![LEVEL](https://img.shields.io/badge/LEVEL-99-8A2BE2?style=for-the-badge&logo=github)
+![XP](https://img.shields.io/badge/XP-%E2%88%9E-1F6FEB?style=for-the-badge&logo=java)
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-3FB950?style=for-the-badge&logo=visualstudiocode)
 
+> _“Coding is my game — logic is my weapon.”_ ⚔️
+
+</div>
+
+Estudante de Engenharia de Software, com projetos de estudo em Java, C/C++, desenvolvimento web e Android. Atualmente aprimorando fundamentos de programação, engenharia de software e segurança da informação.
+
+🎓 **Software Engineering Student**  
+💻 **Game and Systems Development**  
+🕹️ **Focus:** Java, C, C++, HTML5, CSS3 e JavaScript  
 📍 Campo Belo – MG, Brasil
 
-## 🎯 Objetivo profissional
-
-Construir uma base técnica para atuar em operações de segurança, com interesse em monitoramento de eventos, análise de logs, triagem de alertas e resposta a incidentes.
-
-Essas áreas representam meu direcionamento de carreira. Os projetos publicados neste perfil demonstram minha prática em programação e desenvolvimento de aplicações.
-
-## 🎓 Formação e desenvolvimento
-
-- 🎓 Informática — CEFET-MG.
-- 🐍 Full Stack Python — EBAC, em formação.
-- 🧠 Aprimoramento de fundamentos de programação, orientação a objetos, testes, validação de entradas e organização de aplicações.
-- 🛡️ Interesse em aprofundar fundamentos de redes, sistemas operacionais e segurança da informação como preparação para atuar em SOC.
-
-## 🚀 Projetos de desenvolvimento
+## 🚀 Projetos
 
 | Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
@@ -34,8 +34,12 @@ Essas áreas representam meu direcionamento de carreira. Os projetos publicados 
 
 Os READMEs apresentam instruções de execução e limites de cada projeto. Exercícios e protótipos são identificados como tal; alguns projetos adicionais permanecem privados.
 
+## 🕹️ Level Up Projects
 
-## ⚔️ Tecnologias utilizadas nos projetos
+- 🧮 [Vetor de Números em Java](https://github.com/Maikillo/vetor-numeros)
+- 🔢 [Soma de Matrizes em Java](https://github.com/Maikillo/soma-matrizes)
+
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
@@ -53,11 +57,23 @@ Os READMEs apresentam instruções de execução e limites de cada projeto. Exer
 
 </div>
 
+## 🧩 Game Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maikillo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikillo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 ## 🌍 Idiomas
 
 🇧🇷 **Português** — Nativo  
-🇺🇸 **Inglês** — Em aprendizado
+🇺🇸 **English** — Em aprendizado
+
+## 🧠 Sobre mim
+
+Estou aprofundando meus conhecimentos em orientação a objetos, testes, validação de entradas e organização de aplicações. Meu direcionamento atual envolve desenvolvimento seguro, com o objetivo de construir uma base sólida para atuar futuramente em segurança da informação e segurança de sistemas.
 
 ## 📡 Contato
 
@@ -70,3 +86,19 @@ Os READMEs apresentam instruções de execução e limites de cada projeto. Exer
 
 </div>
 
+## 🏆 Gamer Philosophy
+
+> “True mastery is not about writing less code, but understanding more.” — Linus Torvalds
+
+> “O verdadeiro poder está no conhecimento, não no atalho.”
+
+> “A verdadeira vitória é aprender algo novo a cada commit.” 🏆
+
+<div align="center">
+
+### 🧠 XP Boost
+
+⭐ Se curtir meu trabalho, deixe uma estrela nos repositórios!  
+🎯 Sempre aberto a colaborações, parcerias e ideias criativas.
+
+</div>
